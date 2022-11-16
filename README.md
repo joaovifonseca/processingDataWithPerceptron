@@ -1,8 +1,13 @@
 
 # Processando dados com Perceptron e MPL
 
-Observou-se que o modelo Perceptron apresentou acurácia de 75%, independentemente do ajuste da taxa de aprendizado, ao passo que o modelo MLP apresentou acurácia de 100% em todos os cenáriso testados. 
-Sendo assim, pode-se concluir que o problema objeto do estudo não é linear. Portanto concluimos que o modelo de perceptron não é aderente ao problema que se foi proposto sendo assim a utilização adequada é o modelo de MPL. O modelo perceptron não é aplicável para problemas não-lineares
+Observou-se que o modelo Perceptron apresentou acurácia de 75%, independentemente do ajuste da taxa de aprendizado, ao passo que o modelo MLP apresentou acurácia de 100% em todos os cenários. Portanto, pode-se concluir que o modelo perceptron não é aderente ao problema proposto., mostrando-se mais adequado para a resolução de problemas lineares.
+
+Características observadas durante as simulações: 
+Importância e efeito na escolha/alteração da função transferência (Perceptron).
+Variação de Taxa de Transferência x Pesos x Critério de Parada, aumenta ou  diminui a quantidade de interações o que reflete diretamente no tempo de processamento ( Perceptron). 
+A alterações nos parâmetros das camadas mais profundas do MLP também interferem na acurácia e tempo de processamento. 
+RNAS são extremamente úteis para uma grande gama de problemas de aplicação com grande número de variáveis e eventos.
 
 ## Colaboradores
 
